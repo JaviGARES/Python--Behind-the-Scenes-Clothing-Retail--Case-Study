@@ -1,5 +1,5 @@
-
-This project analyzes the operations of **Behind the Scenes Clothing Retail (BTSCR)**. The goal was to help senior management understand the key drivers of the business by analyzing Stores, Products, and Orders, and visualizing insights for better decision-making.
+Behind the Scenes Clothing Retail (BTSCR) is a clothing retail company that sells and ships a variety of products to customers around the globe.
+The goal of this project was to help senior management understand the key drivers of the business by analyzing Stores, Products, and Orders, and visualizing insights for better decision-making.
 
 ---
 
