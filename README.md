@@ -62,7 +62,7 @@ The analysis uses four CSV files:
 
 ## Notebook Preview
 You can view the Jupyter Notebook directly on GitHub without downloading:  
-[Preview Notebook](link-to-your-notebook)
+[view Notebook](https://github.com/JaviGARES/Python--Behind-the-Scenes-Clothing-Retail--Case-Study.ipynb)
 
 
 ---
